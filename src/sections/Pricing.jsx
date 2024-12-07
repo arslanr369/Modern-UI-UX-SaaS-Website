@@ -2,9 +2,14 @@ import React from 'react'
 
 const Pricing = () => {
   return (
-    <div>
-      
-    </div>
+    <section>
+      <Element name='pricing'>
+        <div>
+            
+        </div>
+
+      </Element>
+    </section>
   )
 }
 
