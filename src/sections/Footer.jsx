@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-s2 text-p5 font-poppins">
       <div className="container py-10 flex flex-col md:flex-row">
-        <div className="flex flex-col items-center md:items-start mb-8 md:mb-0 md:w-1/3">
+        <div className="hidden md:flex flex-col items-center md:items-start mb-8 md:mb-0 md:w-1/3">
           <ul className="space-y-3">
             <li className="hover:text-p1 cursor-pointer">Features</li>
             <li className="hover:text-p1 cursor-pointer">Pricing</li>
@@ -13,11 +13,11 @@ const Footer = () => {
           </ul>
         </div>
         <div className="flex flex-col items-center md:w-1/3 text-center">
-          <div className="flex items-center justify-center w-50 h-50 mb-4 ">
+          <div className="flex items-center justify-center w-50 h-50 mb-4">
             <img
               src="/images/xora.svg"
               alt="Logo"
-              className="object-contain h-full w-full "
+              className="object-contain h-full w-full"
             />
           </div>
           <h2 className="text-lg font-semibold mb-2 text-p5">Subscribe</h2>
@@ -38,7 +38,6 @@ const Footer = () => {
             </button>
           </form>
         </div>
-
         <div className="flex flex-1 flex-col items-center md:items-end mt-8 md:mt-0">
           <ul className="flex space-x-4">
             {socials.map(({ id, url, icon, title }) => (
@@ -58,7 +57,6 @@ const Footer = () => {
           </ul>
         </div>
       </div>
-
       <div className="container py-10 border-t border-opacity-20 border-p5 mt-8">
         <div className="flex flex-col md:flex-row items-center justify-between">
           <p className="opacity-70">Copyright, Arslanr369</p>
