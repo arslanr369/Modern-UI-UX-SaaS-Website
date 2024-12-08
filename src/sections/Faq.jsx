@@ -5,9 +5,9 @@ import FaqItem from "../components/FaqItem.jsx";
 
 const Faq = () => {
   return (
-    <div>
+    <Section>
       
-    </div>
+    </Section>
   )
 }
 
