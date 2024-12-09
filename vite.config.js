@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: './', // Optional: use this if hosting on GitHub Pages
+  base: 'https://github.com/arslanr369/Modern-UI-UX-SaaS-Website', // Optional: use this if hosting on GitHub Pages
 });
