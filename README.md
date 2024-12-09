@@ -6,7 +6,7 @@ Here’s a professional and visually appealing **README.md** template for your M
 
 **A sleek and modern SaaS landing page built with cutting-edge technologies like React, Vite, and TailwindCSS. This project showcases advanced UI/UX design principles with responsive layouts and optimized performance, perfect for businesses looking to establish a strong online presence.**
 
-![Preview]![screencapture-localhost-5173-2024-12-09-13_25_32](https://github.com/user-attachments/assets/286a994c-1393-4d51-82d1-19c5953de358)
+![screencapture-localhost-5173-2024-12-09-13_25_32](https://github.com/user-attachments/assets/286a994c-1393-4d51-82d1-19c5953de358)
 *A clean, responsive, and visually engaging SaaS website.*
 
 ---
