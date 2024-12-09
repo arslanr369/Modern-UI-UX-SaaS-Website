@@ -47,7 +47,7 @@ Follow these steps to set up and run the project locally.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Arslanr369/Modern-UI-UX-SaaS-Website.git
-   cd repository-name
+   cd Modern-UI-UX-SaaS-Website
    ```
 
 2. Install dependencies:
